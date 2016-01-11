@@ -1,0 +1,8 @@
+{
+    "beam": {
+        "username": "username",
+        "password": "password",
+        "channel": "channelname"
+    },
+    "threshold":0.5
+}
